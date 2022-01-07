@@ -3,7 +3,7 @@ FLASK used
 
 Данный Бот предназаначен для принятия платежей через тестовый магазин:
 
-![payment](./static/payment.jpg?raw=true "Title")
+![payment](/static/payment.jpg?raw=true "Title")
 
 Для изменения функционала необходимо: 
 1) склонировать себе репозиторий
