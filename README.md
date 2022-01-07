@@ -3,7 +3,7 @@ FLASK used
 
 Данный Бот предназаначен для принятия платежей через тестовый магазин:
 
-![payment](/static/payment.jpg?raw=true "Title")
+![payment](https://github.com/aboronilov/telegram_payment_bot/blob/master/static/payment.JPG)
 
 Для изменения функционала необходимо: 
 1) склонировать себе репозиторий
